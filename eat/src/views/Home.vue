@@ -1,3 +1,4 @@
+/* eslint-disable vue/multi-word-component-names */
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
